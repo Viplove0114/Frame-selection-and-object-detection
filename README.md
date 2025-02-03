@@ -33,6 +33,7 @@ from google.colab.patches import cv2_imshow
    ```bash
    git clone https://github.com/Viplove0114/Frame-selection-and-object-detection.git
    ```
+### I have used this video for demonstration - https://drive.google.com/file/d/1sf71w8cenBoKUEvGJv92WR_yqQiTB0-R/view?usp=sharing
 
 Feel free to contribute and improve this project! 🚀
 
